@@ -3,7 +3,7 @@ function calculadora() {
     
 if (!oprac ||  oprac >= 7) {
     alert('error - Insira uma opção valida ')
-    calculadora()
+    calculadora();
 } else {
 
     let n1 = Number(prompt ('Insira o primeiro valor '))
@@ -12,7 +12,7 @@ if (!oprac ||  oprac >= 7) {
 
     if (!n1 || !n2) {
         alert('erro - insira apenas numeros')
-        calculadora()
+        calculadora();
     } else {
 
         function soma(){
