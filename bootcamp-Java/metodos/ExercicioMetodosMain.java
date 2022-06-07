@@ -1,5 +1,5 @@
 
-public class ExercicioMetodos {
+public class ExercicioMetodosMain {
 
     public static void main(String[] args) {
 
